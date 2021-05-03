@@ -1,0 +1,6 @@
+C:\Users\lebel\Desktop\vs android s6\lab1\lab1\lab1\obj\Debug\50\MonoAndroid,Version=v5.0.AssemblyAttributes.cs
+C:\Users\lebel\Desktop\vs android s6\lab1\lab1\lab1\obj\Debug\50\build.props
+C:\Users\lebel\Desktop\vs android s6\lab1\lab1\lab1\obj\Debug\50\adb.props
+C:\Users\lebel\Desktop\vs android s6\lab1\lab1\lab1\obj\Debug\50\lab1.csprojAssemblyReference.cache
+C:\Users\lebel\Desktop\vs android s6\lab1\lab1\lab1\obj\Debug\50\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\lebel\Desktop\vs android s6\lab1\lab1\lab1\obj\Debug\50\res.flag

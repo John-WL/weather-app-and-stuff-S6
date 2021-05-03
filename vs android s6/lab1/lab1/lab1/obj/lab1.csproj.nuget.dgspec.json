@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lebel\\Desktop\\vs android s6\\lab1\\lab1\\lab1\\lab1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lebel\\Desktop\\vs android s6\\lab1\\lab1\\lab1\\lab1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lebel\\Desktop\\vs android s6\\lab1\\lab1\\lab1\\lab1.csproj",
+        "projectName": "lab1",
+        "projectPath": "C:\\Users\\lebel\\Desktop\\vs android s6\\lab1\\lab1\\lab1\\lab1.csproj",
+        "packagesPath": "C:\\Users\\lebel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lebel\\Desktop\\vs android s6\\lab1\\lab1\\lab1\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lebel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid50": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid50": {
+          "dependencies": {
+            "Xamarin.AndroidX.AppCompat": {
+              "target": "Package",
+              "version": "[1.2.0.5, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

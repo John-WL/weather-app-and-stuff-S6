@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "zMgCG3MtbUqu4Cgvxx/hDXbh8ykC5vIXWc660K6geByPvsObFu5MGXXjIzSMCd9s4v8UNJ8f2uGQBZuUJEXolw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\lebel\\Desktop\\vs android s6\\lab1\\lab1\\lab1\\lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lebel\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.appcompat\\1.2.0.5\\xamarin.androidx.appcompat.1.2.0.5.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1202",
+      "level": "Error",
+      "message": "Package Xamarin.AndroidX.AppCompat 1.2.0.5 is not compatible with monoandroid50 (MonoAndroid,Version=v5.0). Package Xamarin.AndroidX.AppCompat 1.2.0.5 supports: monoandroid90 (MonoAndroid,Version=v9.0)",
+      "libraryId": "Xamarin.AndroidX.AppCompat",
+      "targetGraphs": [
+        "MonoAndroid,Version=v5.0"
+      ]
+    }
+  ]
+}
